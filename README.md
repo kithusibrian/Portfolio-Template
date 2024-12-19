@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+WHats Good Motherfuckers
 # Portfolio-Template
 =======
 # Personal Portfolio Website
